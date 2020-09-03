@@ -1,6 +1,6 @@
 # Boy-or-Girl
-Kaggle: https://www.kaggle.com/c/ncu-im5033-boy-or-girl
-Colab: https://colab.research.google.com/drive/1Fgl0aKHzxBeqWEdzVcq1JHB7QyjHPMld#scrollTo=cULknMRVsMig
+Kaggle: https://www.kaggle.com/c/ncu-im5033-boy-or-girl  
+Colab: https://colab.research.google.com/drive/1Fgl0aKHzxBeqWEdzVcq1JHB7QyjHPMld?usp=sharing
 
 ### Description
 This is an in-class competition for Course IM5033 Data Science and Machine Learning. Your mission is to predict the gender of a given respondent for an online questionnaire. Refer to the Data tab for the details of the dataset.
