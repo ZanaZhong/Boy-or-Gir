@@ -1,4 +1,4 @@
-# Boy-or-Gir
+# Boy-or-Girl
 Kaggle: https://www.kaggle.com/c/ncu-im5033-boy-or-girl
 Colab: https://colab.research.google.com/drive/1Fgl0aKHzxBeqWEdzVcq1JHB7QyjHPMld#scrollTo=cULknMRVsMig
 
